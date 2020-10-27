@@ -1,2 +1,2 @@
 # using_gldpy
-Examples of using gldpy.GLD
+Examples of using gldpy
